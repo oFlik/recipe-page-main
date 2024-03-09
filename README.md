@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 ![](./screenshots/Full%20Page%20Desktop.png)
-
+ 
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-uZu6GLKxZo)
