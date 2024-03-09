@@ -125,3 +125,29 @@ footer {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+@media all and (orientation: landscape) {
+  body {
+    background-color: hsl(330, 100%, 98%);
+  }
+
+  .full-page {
+    background-color: white;
+    width: 70%;
+    margin: 10% 15%;
+    padding-top: 3%;
+    padding-bottom: 20px;
+  }
+
+  .main-image {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .full-page,
+  .main-image {
+    border-radius: 30px;
+  }
+}
