@@ -20,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/oFlik/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-uZu6GLKxZo)
+- Live Site URL: [Recipe page](https://oflik.github.io/recipe-page-main/)
 
 ## My process
 
@@ -39,4 +39,3 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Linkedin - [Thiago Pereira](https://www.linkedin.com/in/thiagopereira02/)
 - Frontend Mentor - [@oFlik](https://www.frontendmentor.io/profile/oFlik)
-
