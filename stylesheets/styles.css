@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'Young Serif';
+  src: url(../assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Outfit';
+  src: url(../assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+body {
+  width: 100%;
+  margin: 0;
+}
+
+.main-image {
+  width: 100%;
+}
+
+main {
+  flex-direction: column;
+  margin: 0px 10%;
+}
+
+.page-title {
+  color: hsl(24, 5%, 18%);
+}
+
+.section-title {
+  color: hsl(14, 45%, 36%);
+}
+
+.section-title,
+.page-title {
+  font-family: 'Young Serif';
+  font-weight: 400;
+}
+
+p,
+td {
+  color: hsl(30, 10%, 34%);
+  font-family: 'Outfit';
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.prep-container {
+  border-radius: 10px;
+  justify-content: center;
+  padding: 10px;
+  background-color: hsl(330, 100%, 98%);
+}
+
+.prep-title {
+  font-family: 'Outfit';
+  color: hsl(332, 51%, 32%);
+}
+
+.prep-list {
+  padding: 0 30px;
+}
+
+.prep-title,
+.prep-list {
+  margin: 10px;
+}
+
+ol ::marker {
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-variant: small-caps;
+  color: hsl(14, 45%, 36%);
+}
+
+ol,
+ul {
+  color: hsl(14, 45%, 36%);
+  padding-left: 25px;
+}
+
+li {
+  padding-left: 15px;
+}
+
+li + li {
+  margin-top: 10px;
+}
+
+hr {
+  margin-top: 30px;
+  opacity: 30%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-style: hidden;
+}
+
+td {
+  border-top: 1px solid hsl(30, 18%, 87%);
+}
+
+.table-item {
+  padding: 10px 0px;
+  padding-left: 40px;
+}
+
+.table-data {
+  font-family: 'Outfit';
+  font-weight: 700;
+  color: hsl(14, 45%, 36%);
+}
+
+footer {
+  margin-top: 10px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
